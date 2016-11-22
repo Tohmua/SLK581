@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Tohmua/SLK581.svg?branch=master)](https://travis-ci.org/Tohmua/SLK581)
+
 # SLK581
 This project generates SLK581 Codes. More info on SLK581 codes can be found [here](https://ataps-mds.com/mds/user-documentation/slk/). More detailed notes on the specification can be found [here](http://meteor.aihw.gov.au/content/index.phtml/itemId/349510).
 
