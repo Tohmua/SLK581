@@ -4,7 +4,7 @@
 This project generates SLK581 Codes. More info on SLK581 codes can be found [here](https://ataps-mds.com/mds/user-documentation/slk/). More detailed notes on the specification can be found [here](http://meteor.aihw.gov.au/content/index.phtml/itemId/349510).
 
 ### Install
-`composer require tohmua/SLK581`
+`composer require tohmua/slk581`
 
 ### Use
 ```PHP
