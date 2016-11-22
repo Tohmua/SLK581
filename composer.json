@@ -1,0 +1,24 @@
+{
+    "name": "tohmua/SLK581",
+    "description": "Generate SLK581 codes",
+    "keywords": ["SLK581"],
+    "license": "MIT",
+    "prefer-stable": true,
+    "require": {
+        "php": "^5.6 || ^7.0"
+    },
+    "require-dev": {
+        "phpspec/prophecy": "^1.6",
+        "phpunit/phpunit": "^5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "SLK581\\": "src/"
+        }
+    },
+    "scripts": {
+        "test": [
+            "vendor/bin/phpunit --coverage-html='tests/_output' --coverage-text='php://stdout' --colors=auto --whitelist src tests"
+        ]
+    }
+}
